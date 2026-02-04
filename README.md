@@ -44,5 +44,5 @@ I’m constantly learning, refining my craft, and seeking better ways to build s
 - 💼 **LinkedIn:**  
   <a href="https://www.linkedin.com/in/ahmed-taha-fekry-290b20167/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" />
-    linkedin.com/in/ahmed-taha-fekry-290b20167
+    Ahmed Taha Fekry
   </a>
